@@ -1,0 +1,67 @@
+body {
+    background-color: #506f79;
+}
+
+/* navigation section */
+
+.navigation{
+    background-color: #1f1d9ea4;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    border-radius: 100px;
+}
+
+.navigation_home button {
+    color: #fff;
+    font-size: 30px;
+    border-radius: 100px;
+    cursor: pointer;
+    background-color: #220b7c;
+}
+
+.navigation_logo img {
+    width: 100px;
+}
+
+
+
+.navigation_home {
+    width: 2000px;
+    display: flex;
+    justify-content: space-around;
+}
+.navigation_home img {
+    cursor: pointer;
+}
+
+.navigation_logo  {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+/* user section */
+
+.navigation_user input {
+    border-radius: 100px;
+    font-size: 26px;
+    width: 220px;
+}
+
+.register  {
+    background-color: green !important;
+}
+
+.register:hover {
+    background-color: rgb(1, 66, 1) !important;
+}
+
+.login:hover {
+    background-color: #353940;
+}
+
+
+::placeholder {
+    font-size: 20px;
+}

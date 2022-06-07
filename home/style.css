@@ -1,0 +1,30 @@
+
+/* home section */
+
+.home_title {
+    color: #fff;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+}
+
+.home_btn button {
+    outline: none;
+    margin: 8px;
+    cursor: pointer;
+    border-radius: 100px;
+    background-color: rgb(186, 163, 51);
+    font-size: 24px;
+    
+}
+
+
+.home_btn button:hover {
+    background-color: rgb(210, 210, 46); 
+}
+
+.users_list {
+    list-style: none;
+}
+
+
