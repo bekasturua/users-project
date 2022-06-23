@@ -4,7 +4,7 @@ body {
 
 /* navigation section */
 
-.navigation{
+.navigation {
     background-color: #1f1d9ea4;
     height: 120px;
     display: flex;
@@ -24,8 +24,6 @@ body {
     width: 100px;
 }
 
-
-
 .navigation_home {
     width: 2000px;
     display: flex;
@@ -35,7 +33,7 @@ body {
     cursor: pointer;
 }
 
-.navigation_logo  {
+.navigation_logo {
     width: 200px;
     display: flex;
     justify-content: center;
@@ -49,7 +47,7 @@ body {
     width: 220px;
 }
 
-.register  {
+.register {
     background-color: green !important;
 }
 
@@ -60,7 +58,6 @@ body {
 .login:hover {
     background-color: #353940;
 }
-
 
 ::placeholder {
     font-size: 20px;
